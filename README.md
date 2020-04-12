@@ -49,3 +49,7 @@ weather forecast
 // If you don't live in New York
 weather forecast --location="New York, NY"
 ```
+
+## Reference
+
+https://timber.io/blog/creating-a-real-world-cli-app-with-node/
